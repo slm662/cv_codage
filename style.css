@@ -249,7 +249,7 @@ scroll-behavior: smooth;
            background-color: #FFA500  ;
         }
 .formation-section {
-    background-image: url("camille.jpg"); 
+    background-image: url("see.jpeg"); 
     background-size: cover;     
     background-position: center;
     
@@ -265,7 +265,7 @@ scroll-behavior: smooth;
     z-index: 1;
 }
 .head-section {
-    background-image: url("camille2.webp"); 
+    background-image: url("see1.jpeg"); 
     background-size: cover;     
     background-position: center; 
     background-repeat: no-repeat; 
